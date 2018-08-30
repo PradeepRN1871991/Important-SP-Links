@@ -1,0 +1,26 @@
+sharepoint 2013 virtual lab
+https://vlabs.holsystems.com/vlabs/technet?eng=VLabs&auth=none&src=vlabs&altadd=true&labid=21149&lod=true
+
+
+*update metadata using csom C#
+
+link1: https://unnieayilliath.com/2015/08/24/sharepoint-2013-updateclear-taxonomy-field-value-using-c-csom/comment-page-1/
+
+link2: https://social.technet.microsoft.com/wiki/contents/articles/20831.sharepoint-a-complete-guide-to-getting-and-setting-fields-using-powershell.aspx#Set_and_Get_a_Lookup_Field
+
+
+
+https://blogs.msmvps.com/windsor/2017/03/12/walkthrough-building-a-custom-web-api-for-use-with-sharepoint-online/
+https://spjhon.com/2016/11/02/azure1/
+
+
+https://www.c-sharpcorner.com/UploadFile/93cb27/client-side-taxonomy-picker-for-sharepoint-app/
+
+https://dotnetfinder.wordpress.com/2012/08/27/how-to-connect-to-the-oracle-database-using-business-connectivity-services-bcs-in-sharepoint-2010/
+
+
+https://lightningtools.com/bcs/business-connectivity-services-in-sharepoint-2013-and-oracle-using-meta-man/
+
+
+
+https://social.technet.microsoft.com/wiki/contents/articles/30887.sharepoint-2013-bcs-connect-to-oracle-db-no-code.aspx

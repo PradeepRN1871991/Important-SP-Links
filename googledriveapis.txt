@@ -1,0 +1,5 @@
+Google drive APIS C# .NET
+
+Create a credentials in other project category & download clientsecrets.json file
+
+in the project update the path of the .json file and run it

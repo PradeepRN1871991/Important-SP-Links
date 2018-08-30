@@ -1,0 +1,7 @@
+http://www.c-sharpcorner.com/article/sharepoint-2013-using-rest-api-selecting-filtering-sortin/
+
+
+https://www.codeproject.com/Articles/990131/CRUD-operation-to-list-using-SharePoint-Rest-API
+https://social.technet.microsoft.com/wiki/contents/articles/31210.sharepoint-2013-get-user-details-from-person-or-group-field-using-rest-api.aspx
+https://sharepoint.stackexchange.com/questions/71827/rest-post-how-to-add-a-list-item-with-people-and-group-choice-and-url-f
+https://stackoverflow.com/questions/33259576/sharepoint-2013-ensureuser-via-rest-api

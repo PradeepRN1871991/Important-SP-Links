@@ -1,0 +1,20 @@
+steps for as is migration sharepoint
+
+deploy all the wsps, global level or at the web application level
+
+
+1. take the backup of the database which contains all the web application, sites
+2. go to the sql server management studio and click on the database, and in tasks click on the restore
+3. choose the location of the backup db files and click on the files on the left tab and choose where the
+data from db should reside and also for the logs.
+4. click on ok.. this should restore the given database..
+
+
+mounting database.. (while mounting please check the space on the server)
+
+
+Mount-SPContentDatabase  "Name of the content database" -WebApplication ""
+
+
+this should restore all the required web application, Site Collections from source to destination.
+

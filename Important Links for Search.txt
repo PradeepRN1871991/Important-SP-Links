@@ -1,0 +1,34 @@
+https://blogs.technet.microsoft.com/sharepoint_made_easy/2013/03/19/step-by-step-configuration-to-add-custom-refiners-in-the-refinement-panel-of-search-results-page-for-sharepoint-online/
+https://www.eliostruyf.com/making-columns-searchable-for-the-list-or-library-searchbox/
+http://www.c-sharpcorner.com/UploadFile/40e97e/terms-as-search-refiners-in-sharepoint-2013/
+https://stackoverflow.com/questions/38884112/how-to-make-custom-columns-searchable-in-sharepoint-office-365
+https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-even-better-for-your-users
+https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/
+https://technet.microsoft.com/en-us/library/jj219630(v=office.15)
+https://technet.microsoft.com/en-us/library/dn386874.aspx
+http://www.techmikael.com/2014/03/sharepoint-search-queries-explained.html
+https://blogs.technet.microsoft.com/searchguys/2013/12/10/how-to-find-all-managed-properties-of-a-document/
+https://technet.microsoft.com/en-us/library/jj683123.aspx
+https://blogs.technet.microsoft.com/tothesharepoint/2013/11/10/how-to-add-refiners-to-your-search-results-page-in-sharepoint-2013/
+http://www.c-sharpcorner.com/UploadFile/anavijai/add-custom-refiners-in-the-refinement-panel-of-search-result/
+http://nikcharlebois.com/creating-custom-search-refiners-in-office-365-using-term-sets/
+https://www.petri.com/configure-result-source-for-search-sharepoint-2013
+
+http://sharepointfordeveloper.blogspot.com/2015/11/shareppoint-2013-ctx-variable-and-its_17.html
+
+Display Templates
+http://www.techmikael.com/2015/02/managed-property-mapping-retrieval-in.html
+http://stevemannspath.blogspot.com/2013/05/sharepoint-2013-search-adding-managed.html
+
+
+Crawling Related
+https://technet.microsoft.com/en-us/library/jj613136.aspx
+
+Refinement Panel Customization
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/11/10/how-to-add-refiners-to-your-search-results-page-in-sharepoint-2013/
+
+
+Promoted Results in Search
+
+https://blogs.technet.microsoft.com/mspfe/2013/02/01/how-to-customize-sharepoint-2013-search-results-using-query-rules-and-result-sources/

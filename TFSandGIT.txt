@@ -1,0 +1,3 @@
+https://youtu.be/JTE2Fn_sCZs - Git Branching
+
+https://www.youtube.com/watch?v=_jtCVuLuoIQ - TFS Merge branches & merge with conflict resolution

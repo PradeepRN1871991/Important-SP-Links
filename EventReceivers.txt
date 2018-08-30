@@ -1,0 +1,26 @@
+debugging event recievers in sharepoint
+
+1) open vs in adminstrator mode, open the solution 
+
+2) go to the C:\Windows\System32\inetsrv and open cmd in administrator mode with the mentioned location and execute
+the below command
+
+Command: appcmd.exe list wp
+
+3)you will be getting the w3wp process id for your web application.
+
+4) open vs and in tools> attach to process> select the process id obtained in the step3 and click on ok select the breakpoint
+at the required location in the code.
+
+5) go back to the site and perform CRUD Operations and check whether the breakpoint hits or not
+
+
+
+Important Links 
+
+
+https://blogs.msdn.microsoft.com/benjaminperkins/2011/12/04/finding-the-w3wp-worker-process-pid-and-associated-id/
+
+
+
+

@@ -1,0 +1,19 @@
+Important Links related to SharePoint
+
+
+https://searchexplained.com/create-configure-search-centers-and-search-pages/ - Configure Search center in SharePoint 
+2013 and SharePoint 2016 Environment
+
+
+
+http://aaclage.blogspot.com/ - SP UserCustom actions/ Javascript Customization
+
+
+
+
+http://techtrainingnotes.blogspot.com/2015/12/sharepoint-js-link-context-object.html
+
+
+https://www.c-sharpcorner.com/UploadFile/93cb27/client-side-taxonomy-picker-for-sharepoint-app/
+
+
