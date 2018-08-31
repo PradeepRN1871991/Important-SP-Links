@@ -1,0 +1,35 @@
+Add-PSSnapin "Microsoft.SharePoint.PowerShell" -ErrorAction SilentlyContinue
+$exportpath=""
+$Name = ""
+$Users = Import-Csv -Delimiter "," -Path ""
+$usercollection=@()
+ 
+foreach($user in $Users)
+{
+    $pos = $user.username.IndexOf("\")
+    #$rightPart = $name.Substring($pos+1)
+    $Name = $user.username.Substring($pos+1)
+    $Searcher = [ADSISearcher]"(sAMAccountName=$Name)"
+    $Results = $Searcher.FindOne()
+    If ($Results -eq $Null) 
+    {
+    $userobj1=New-Object PSObject 
+    $userobj1 | Add-Member -MemberType NoteProperty -Name "User Id" -Value $user.username
+    $userobj1 | Add-Member -MemberType NoteProperty -Name "Availability"-Value "Not in AD"
+    Write-Host $Name "- Users does not exist in AD"
+    $usercollection+=$userobj1
+     }
+    Else 
+    {
+    $userobj=New-Object PSObject 
+    $userobj | Add-Member -MemberType NoteProperty -Name "User Id" -Value $user.username
+    $userobj | Add-Member -MemberType NoteProperty -Name "Availability"-Value "Yes there in AD"
+    Write-Host $Name "- User found in AD"
+    $usercollection+=$userobj
+    }  
+}
+
+
+
+$usercollection | Export-Csv -Path $exportpath
+ 

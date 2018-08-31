@@ -1,0 +1,4 @@
+Microsoft.NET Map reduce API for Hadoop
+http://www.c-sharpcorner.com/
+
+https://www.quora.com/What-are-some-of-the-use-cases-of-Hadoop-big-data-that-can-be-implemented-by-a-beginner/answer/Shubham-Sinha-202?__filter__&__nsrc__=2&__snid3__=1348634184
